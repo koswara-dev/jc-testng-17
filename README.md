@@ -1,4 +1,4 @@
-## Silabus 3 Hari Java TestNG
+## Silabus Java TestNG
 
 ### Hari 1: Pengenalan dan Instalasi TestNG
 #### Sesi 1: Pengantar TestNG
